@@ -1,5 +1,0 @@
-CREATE TABLE store (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(100),
-  region_id INT
-);
