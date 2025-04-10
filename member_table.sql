@@ -1,0 +1,7 @@
+CREATE TABLE member (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  nickname VARCHAR(50),
+  email VARCHAR(100),
+  phone VARCHAR(20),
+  point INT DEFAULT 0
+);
